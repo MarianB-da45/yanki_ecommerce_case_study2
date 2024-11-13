@@ -26,11 +26,11 @@ Yanki Ecommerce faces challenges in effectively managing and analyzing its vast 
 
 
 ## Tech Stack
-• ﻿﻿﻿Python
-• ﻿﻿﻿NumPy
-• ﻿﻿﻿Pandas
-• ﻿﻿﻿GitHub (using GitHub Desktop)
-• ﻿﻿﻿PostgresQL
+• ﻿﻿﻿Python [DownloadHere](https://docs.python.org/3/library/urllib.html)
+• ﻿﻿﻿NumPy []()
+• ﻿﻿﻿Pandas []()
+• ﻿﻿﻿GitHub (using GitHub Desktop) []()
+• ﻿﻿﻿PostgresQL[https://www.postgresql.org/docs/6.4/jdbc19100.htm](https://www.postgresql.org/docs/6.4/jdbc19100.htm)
 
 
 ## PROJECT SCOPE
